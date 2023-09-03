@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Nayak N</h1>
 <h3 align="center">A passionate web developer based in India</h3>
-<img alt="Coding" width="100%" height="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img alt="Coding" width="100%" height="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
 
