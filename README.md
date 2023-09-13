@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Web developer based in India</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
 <img alt="Coding" align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakn77" alt="vinayakN77" /></a> </p>
 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
