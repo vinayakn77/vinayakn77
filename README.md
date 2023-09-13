@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakn77" alt="vinayakn77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakn77" alt="vinayakN77" /></a> </p>
 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about **Web Development, Wordpress Development and UI/UX Designing**
 
 - 📫 How to reach me **ravindravinayak777@gmail.com**
-
-- ⚡ Fun fact **https://drive.google.com/file/d/1J_Fy9KwuQPgfkcMlOgozux-ud3peTkGv/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
