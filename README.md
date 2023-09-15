@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
-- 🌱 I’m currently learning **React, Node, MongoDB, Express, Flask and Machine Learning**
+- 🌱 I’m currently learning **React, MongoDB, Express, Flask and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://vinayaknayakn.netlify.app/](https://vinayaknayakn.netlify.app/)
 
