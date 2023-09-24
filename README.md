@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
-- 🌱 I’m currently learning **React, MongoDB, Express, Flask and Machine Learning**
+- 🌱 I’m currently learning **ReactJS, Flask and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://vinayaknayakn.netlify.app/](https://vinayaknayakn.netlify.app/)
 
-- 📝 I regularly write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
+- 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
 
 - 💬 Ask me about **Web Development, Wordpress Development and UI/UX Designing**
 
-- 📫 How to reach me **ravindravinayak777@gmail.com**
+- 📫 Reach me at  **ravindravinayak777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakn77&show_icons=true&locale=en&layout=compact" alt="vinayakn77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakn77&show_icons=true&locale=en" alt="vinayakn77" /></p>
-
-// <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakn77&" alt="vinayakn77" /></p> //
