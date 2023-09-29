@@ -11,8 +11,6 @@
 
 - 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
 
-- 💬 Ask me about **Web Development, Wordpress Development and UI/UX Designing**
-
 - 📫 Reach me at  **ravindravinayak777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
