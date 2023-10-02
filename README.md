@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Nayak N</h1>
 <h3 align="center">A Passionate Web developer based in India</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
-<img alt="Coding" align="right" width="35%" height="35%" top="-25px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
