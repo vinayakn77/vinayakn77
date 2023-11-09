@@ -3,7 +3,7 @@
 <img alt="Coding" align="right" width="380" height="240" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
-
+ 
 - 🔭 I’m currently working on **DALL·E CLONE**
 
 - 🌱 I’m currently learning **React, Next.js, Flask and Machine Learning**
