@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Flask, Node.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://vinayaknayakn.netlify.app/](https://vinayaknayakn.netlify.app)
+- 👨‍💻 All of my projects are available at [https://vinayaknayakn.netlify.app](https://vinayaknayakn.netlify.app)
 
 - 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
 
