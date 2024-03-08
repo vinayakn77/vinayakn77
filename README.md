@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently interning at **Surge Datalab Pvt. Ltd.** - a Bangalore based data analytics & AI solutions company.
 
-- 🌱 I’m currently learning **React & Node.js**
+- 🌱 I’m currently learning **React, Angular & Node.js**
 
 - 👨‍💻 All of my projects are available at   [https://vinayaknayakn.netlify.app](https://vinayaknayakn.netlify.app)
 
