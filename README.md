@@ -13,7 +13,7 @@
 - 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
 
 - 📫 Reach me at  **ravindravinayak777@gmail.com**
-
+ 
   
 [![An image of @vinayakn77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakn77)](https://holopin.io/@vinayakn77)
 
