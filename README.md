@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at   [https://vinayaknayakn.netlify.app](https://vinayaknayakn.netlify.app)
 
-- 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com)
+- 📝 I write articles on [ravindravinayak777.medium.com](ravindravinayak777.medium.com) 
 
 - 📫 Reach me at  **ravindravinayak777@gmail.com**
  
