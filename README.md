@@ -10,9 +10,9 @@
 
 - 🌱 Concepts currently learning: **ETL - Extraction transformation and Loading, Datawarehousing / Data mart concepts, Reporting, MIS and Visualization concepts.**
 
-- 👨‍💻 All of my projects are available at   [vinayaknayakn.netlify.app](https://vinayaknayakn.netlify.app)
+- 👨‍💻 All of my projects are available at   [Vinayak Nayak N - Portfolio](https://vinayaknayakn.netlify.app)
 
-- 📝 I write articles on [ravindravinayak777.medium.com](https://ravindravinayak777.medium.com/) 
+- 📝 I write articles on [Vinayak Nayak N - Medium](https://ravindravinayak777.medium.com/) 
 
 - 📫 Reach me at  **ravindravinayak777@gmail.com**
  
