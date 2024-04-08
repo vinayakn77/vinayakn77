@@ -6,7 +6,9 @@
  
 - 🔭 I’m currently interning at **Surge Datalab Pvt. Ltd.** - a Bangalore based data analytics & AI solutions company.
 
-- 🌱 I’m currently learning **ETL - Extraction transformation and Loading, Data warehousing / Data mart concepts, Reporting, MIS and Visualization concepts**
+- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL, Talend**
+
+- 🌱 Concepts currently learning: **ETL - Extraction transformation and Loading, Datawarehousing / Data mart concepts, Reporting, MIS and Visualization concepts**
 
 - 👨‍💻 All of my projects are available at   [https://vinayaknayakn.netlify.app](https://vinayaknayakn.netlify.app)
 
