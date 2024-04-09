@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently interning at **Surge Datalab Pvt. Ltd.** - a Bangalore based data analytics & AI solutions company.
 
-- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL, Talend.**
+- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, PostgreSQL, Talend.**
 
 - 🌱 Concepts currently learning: **ETL - Extraction transformation and Loading, Datawarehousing / Data mart concepts, Reporting, MIS and Visualization concepts.**
 
