@@ -6,9 +6,7 @@
   
 - 🔭 I’m currently working at **Surge Datalab Pvt. Ltd.** - a Bangalore based data analytics & AI solutions company.
 
-- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL, Talend.**
-
-- 🌱 Concepts currently learning: **ETL - Extraction transformation and Loading, Datawarehousing / Data mart concepts, Reporting, MIS and Visualization concepts.**
+- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL**
 
 - 👨‍💻 All of my projects are available at   [Vinayak Nayak N - Portfolio](https://vinayaknayakn.netlify.app)
 
