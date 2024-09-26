@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
   
-/*- 🔭 I’m currently working at **Surge Datalab Pvt. Ltd.** - a Bangalore based data analytics & AI solutions company.*/
-
 - ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL**
 
 - 👨‍💻 All of my projects are available at   [Vinayak Nayak N - Portfolio](https://vinayaknayakn.netlify.app)
