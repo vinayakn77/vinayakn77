@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakn77&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakn77" /> </p>
   
-- ⚙️ Tools / Programming languages currently learning: **Python, Microsoft Power BI, Microsoft Excel, SQL**
-
 - 👨‍💻 All of my projects are available at   [Vinayak Nayak N - Portfolio](https://vinayaknayakn.netlify.app)
 
 - 📝 I write articles on [Vinayak Nayak N - Medium](https://ravindravinayak777.medium.com/) 
 
 - 📫 Reach me at  **ravindravinayak777@gmail.com**
- 
-  
-[![An image of @vinayakn77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakn77)](https://holopin.io/@vinayakn77)
 
+[![An image of @vinayakn77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakn77)](https://holopin.io/@vinayakn77)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
